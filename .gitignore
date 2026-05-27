@@ -1,0 +1,7 @@
+# .gitignore
+.venv/
+enron_spam_data.csv
+spam_classifier_pipeline.joblib
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
